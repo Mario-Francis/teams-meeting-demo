@@ -1,0 +1,15 @@
+/Users/mario-francis/Projects/TeamsMeetingDemo/TeamsMeetingDemo/bin/Debug/net7.0/TeamsMeetingDemo
+/Users/mario-francis/Projects/TeamsMeetingDemo/TeamsMeetingDemo/bin/Debug/net7.0/TeamsMeetingDemo.deps.json
+/Users/mario-francis/Projects/TeamsMeetingDemo/TeamsMeetingDemo/bin/Debug/net7.0/TeamsMeetingDemo.runtimeconfig.json
+/Users/mario-francis/Projects/TeamsMeetingDemo/TeamsMeetingDemo/bin/Debug/net7.0/TeamsMeetingDemo.dll
+/Users/mario-francis/Projects/TeamsMeetingDemo/TeamsMeetingDemo/bin/Debug/net7.0/TeamsMeetingDemo.pdb
+/Users/mario-francis/Projects/TeamsMeetingDemo/TeamsMeetingDemo/obj/Debug/net7.0/TeamsMeetingDemo.csproj.AssemblyReference.cache
+/Users/mario-francis/Projects/TeamsMeetingDemo/TeamsMeetingDemo/obj/Debug/net7.0/TeamsMeetingDemo.GeneratedMSBuildEditorConfig.editorconfig
+/Users/mario-francis/Projects/TeamsMeetingDemo/TeamsMeetingDemo/obj/Debug/net7.0/TeamsMeetingDemo.AssemblyInfoInputs.cache
+/Users/mario-francis/Projects/TeamsMeetingDemo/TeamsMeetingDemo/obj/Debug/net7.0/TeamsMeetingDemo.AssemblyInfo.cs
+/Users/mario-francis/Projects/TeamsMeetingDemo/TeamsMeetingDemo/obj/Debug/net7.0/TeamsMeetingDemo.csproj.CoreCompileInputs.cache
+/Users/mario-francis/Projects/TeamsMeetingDemo/TeamsMeetingDemo/obj/Debug/net7.0/TeamsMeetingDemo.dll
+/Users/mario-francis/Projects/TeamsMeetingDemo/TeamsMeetingDemo/obj/Debug/net7.0/refint/TeamsMeetingDemo.dll
+/Users/mario-francis/Projects/TeamsMeetingDemo/TeamsMeetingDemo/obj/Debug/net7.0/TeamsMeetingDemo.pdb
+/Users/mario-francis/Projects/TeamsMeetingDemo/TeamsMeetingDemo/obj/Debug/net7.0/TeamsMeetingDemo.genruntimeconfig.cache
+/Users/mario-francis/Projects/TeamsMeetingDemo/TeamsMeetingDemo/obj/Debug/net7.0/ref/TeamsMeetingDemo.dll
